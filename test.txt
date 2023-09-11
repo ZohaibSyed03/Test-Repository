@@ -1,1 +1,3 @@
-this is a test to see if my changes are being made
+this is a test to see if my changes are being made (committed through local deviice)
+
+another test, going to pull this change from my local device.
